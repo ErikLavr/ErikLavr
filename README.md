@@ -1,4 +1,4 @@
-[TESTLOCAL](http://192.168.178.52:5000)
+[TESTLOCAL](192.168.178.52:5000)
 
 
 ```
@@ -24,7 +24,7 @@
 
 ## Personal Information
 
-- Gender: Male *cough*
+- Gender: Male
 - Pronouns: He/Him
 - Operating Systems: Ubuntu, Raspberry Pi OS, Windows
 - Languages: German, Russian, English
