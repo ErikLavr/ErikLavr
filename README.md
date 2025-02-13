@@ -1,14 +1,6 @@
-
-```
-
-## Personal Information
-
-- Gender: Male
-- Pronouns: He/Him
-- Operating Systems: Arch, Raspberry Pi OS, Windows
-- Languages: German, Russian, English
-- Programming languages: Python, Lua, NodeJS / Javascript, C#, :p
-- Country: Germany 
-
-That's about it. Bye!
-```
+👋 Hey there! I'm zy.
+💻 Operating Systems: Arch Linux, Raspberry Pi OS, Windows
+🖥️ Programming Languages: Python, Lua, JavaScript (NodeJS), C# :3
+🌍 Languages: German, Russian, English
+📍 Location: Germany
+⚡ Pronouns: Any
